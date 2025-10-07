@@ -14,6 +14,11 @@ The implementation of the C-measure can be found in ./src/count_measures_to_clus
 The s-measure allows comparison of protein sequence clusters that are annotated with Gene Ontology terms.
 The implementation of the s-measure can be found in ./src/count_measures_to_clusters/measures.py.
 
+## Example clusters assesment with C measure and s measure
+
+Based on the enrichment results stored in a tab-separated text file, an example of how to use the measures is provided
+in ./src/count_measures_to_clusters/measures.py.
+
 ## Tuning GBSC
 
 The measures were created to assess the results of the GBSC method using different parameter sets. To evaluate these
