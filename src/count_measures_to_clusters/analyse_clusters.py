@@ -27,10 +27,10 @@ class AnaliseCluster:
             for l in f:
                 if l.strip():
                     line = l.strip().split()
-                    cluster, go, xx, sequence_no, go_seq_no, cl_size, cluster_go_seq_no, hypergeom_p_val, hypergeom_test, x2, x3, x4 = line
+                    cluster, go, go_seq_no_div_seq_no, sequence_no, go_seq_no, cl_size, cluster_go_seq_no, hypergeom_p_val, hypergeom_test, bh_value, GO_in_cl, BH_bool_test = line
                     if cl_size > 1:
                         cl_names.add(cluster)
-                        if cluster not in self.clusters_info and x4 == "True":
+                        if cluster not in self.clusters_info and BH_bool_test == "True":
                             self.clusters_info[cluster] = {"GO": go, "GO_sequences": go_seq_no,
                                                            "cluster_size": cl_size}
                         if self.clusters_info[cluster]["GO_sequences"] < go_seq_no:
