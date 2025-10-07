@@ -1,0 +1,648 @@
+#[params_1]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 1 -m 0 -x 4  "
+
+#[params_2]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 1 -m 0 -x 6  "
+
+#[params_3]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 1 -m 0 -x 8  "
+
+#[params_4]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 2 -m 0 -x 4  "
+
+#[params_5]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 2 -m 0 -x 6  "
+
+#[params_6]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 2 -m 0 -x 8  "
+
+#[params_7]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 3 -m 0 -x 4  "
+
+#[params_8]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 3 -m 0 -x 6  "
+
+#[params_9]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 3 -m 0 -x 8  "
+
+#[params_10]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 4 -m 0 -x 4  "
+
+#[params_11]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 4 -m 0 -x 6  "
+
+#[params_12]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 10 -g 4 -m 0 -x 8  "
+
+#[params_13]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 1 -m 0 -x 4  "
+
+#[params_14]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 1 -m 0 -x 6  "
+
+#[params_15]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 1 -m 0 -x 8  "
+
+#[params_16]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 2 -m 0 -x 4  "
+
+#[params_17]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 2 -m 0 -x 6  "
+
+#[params_18]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 2 -m 0 -x 8  "
+
+#[params_19]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 3 -m 0 -x 4  "
+
+#[params_20]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 3 -m 0 -x 6  "
+
+#[params_21]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 3 -m 0 -x 8  "
+
+#[params_22]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 4 -m 0 -x 4  "
+
+#[params_23]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 4 -m 0 -x 6  "
+
+#[params_24]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 12 -g 4 -m 0 -x 8  "
+
+#[params_25]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 1 -m 0 -x 4  "
+
+#[params_26]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 1 -m 0 -x 6  "
+
+#[params_27]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 1 -m 0 -x 8  "
+
+#[params_28]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 2 -m 0 -x 4  "
+
+#[params_29]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 2 -m 0 -x 6  "
+
+#[params_30]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 2 -m 0 -x 8  "
+
+#[params_31]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 3 -m 0 -x 4  "
+
+#[params_32]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 3 -m 0 -x 6  "
+
+#[params_33]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 3 -m 0 -x 8  "
+
+#[params_34]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 4 -m 0 -x 4  "
+
+#[params_35]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 4 -m 0 -x 6  "
+
+#[params_36]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 14 -g 4 -m 0 -x 8  "
+
+#[params_37]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 1 -m 0 -x 4  "
+
+#[params_38]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 1 -m 0 -x 6  "
+
+#[params_39]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 1 -m 0 -x 8  "
+
+#[params_40]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 2 -m 0 -x 4  "
+
+#[params_41]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 2 -m 0 -x 6  "
+
+#[params_42]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 2 -m 0 -x 8  "
+
+#[params_43]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 3 -m 0 -x 4  "
+
+#[params_44]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 3 -m 0 -x 6  "
+
+#[params_45]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 3 -m 0 -x 8  "
+
+#[params_46]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 4 -m 0 -x 4  "
+
+#[params_47]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 4 -m 0 -x 6  "
+
+#[params_48]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 16 -g 4 -m 0 -x 8  "
+
+#[params_49]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 1 -m 0 -x 4  "
+
+#[params_50]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 1 -m 0 -x 6  "
+
+#[params_51]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 1 -m 0 -x 8  "
+
+#[params_52]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 2 -m 0 -x 4  "
+
+#[params_53]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 2 -m 0 -x 6  "
+
+#[params_54]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 2 -m 0 -x 8  "
+
+#[params_55]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 3 -m 0 -x 4  "
+
+#[params_56]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 3 -m 0 -x 6  "
+
+#[params_57]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 3 -m 0 -x 8  "
+
+#[params_58]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 4 -m 0 -x 4  "
+
+#[params_59]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 4 -m 0 -x 6  "
+
+#[params_60]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 18 -g 4 -m 0 -x 8  "
+
+#[params_61]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 1 -m 0 -x 4  "
+
+#[params_62]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 1 -m 0 -x 6  "
+
+#[params_63]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 1 -m 0 -x 8  "
+
+#[params_64]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 2 -m 0 -x 4  "
+
+#[params_65]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 2 -m 0 -x 6  "
+
+#[params_66]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 2 -m 0 -x 8  "
+
+#[params_67]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 3 -m 0 -x 4  "
+
+#[params_68]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 3 -m 0 -x 6  "
+
+#[params_69]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 3 -m 0 -x 8  "
+
+#[params_70]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 4 -m 0 -x 4  "
+
+#[params_71]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 4 -m 0 -x 6  "
+
+#[params_72]
+GBSC_ALGORITHM_PARAMS="-w 3 -l 20 -g 4 -m 0 -x 8  "
+
+#[params_73]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 1 -m 0 -x 4  "
+
+#[params_74]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 1 -m 0 -x 6  "
+
+#[params_75]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 1 -m 0 -x 8  "
+
+#[params_76]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 2 -m 0 -x 4  "
+
+#[params_77]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 2 -m 0 -x 6  "
+
+#[params_78]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 2 -m 0 -x 8  "
+
+#[params_79]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 3 -m 0 -x 4  "
+
+#[params_80]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 3 -m 0 -x 6  "
+
+#[params_81]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 3 -m 0 -x 8  "
+
+#[params_82]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 4 -m 0 -x 4  "
+
+#[params_83]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 4 -m 0 -x 6  "
+
+#[params_84]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 10 -g 4 -m 0 -x 8  "
+
+#[params_85]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 1 -m 0 -x 4  "
+
+#[params_86]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 1 -m 0 -x 6  "
+
+#[params_87]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 1 -m 0 -x 8  "
+
+#[params_88]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 2 -m 0 -x 4  "
+
+#[params_89]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 2 -m 0 -x 6  "
+
+#[params_90]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 2 -m 0 -x 8  "
+
+#[params_91]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 3 -m 0 -x 4  "
+
+#[params_92]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 3 -m 0 -x 6  "
+
+#[params_93]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 3 -m 0 -x 8  "
+
+#[params_94]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 4 -m 0 -x 4  "
+
+#[params_95]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 4 -m 0 -x 6  "
+
+#[params_96]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 12 -g 4 -m 0 -x 8  "
+
+#[params_97]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 1 -m 0 -x 4  "
+
+#[params_98]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 1 -m 0 -x 6  "
+
+#[params_99]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 1 -m 0 -x 8  "
+
+#[params_100]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 2 -m 0 -x 4  "
+
+#[params_101]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 2 -m 0 -x 6  "
+
+#[params_102]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 2 -m 0 -x 8  "
+
+#[params_103]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 3 -m 0 -x 4  "
+
+#[params_104]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 3 -m 0 -x 6  "
+
+#[params_105]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 3 -m 0 -x 8  "
+
+#[params_106]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 4 -m 0 -x 4  "
+
+#[params_107]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 4 -m 0 -x 6  "
+
+#[params_108]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 14 -g 4 -m 0 -x 8  "
+
+#[params_109]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 1 -m 0 -x 4  "
+
+#[params_110]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 1 -m 0 -x 6  "
+
+#[params_111]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 1 -m 0 -x 8  "
+
+#[params_112]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 2 -m 0 -x 4  "
+
+#[params_113]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 2 -m 0 -x 6  "
+
+#[params_114]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 2 -m 0 -x 8  "
+
+#[params_115]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 3 -m 0 -x 4  "
+
+#[params_116]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 3 -m 0 -x 6  "
+
+#[params_117]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 3 -m 0 -x 8  "
+
+#[params_118]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 4 -m 0 -x 4  "
+
+#[params_119]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 4 -m 0 -x 6  "
+
+#[params_120]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 16 -g 4 -m 0 -x 8  "
+
+#[params_121]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 1 -m 0 -x 4  "
+
+#[params_122]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 1 -m 0 -x 6  "
+
+#[params_123]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 1 -m 0 -x 8  "
+
+#[params_124]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 2 -m 0 -x 4  "
+
+#[params_125]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 2 -m 0 -x 6  "
+
+#[params_126]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 2 -m 0 -x 8  "
+
+#[params_127]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 3 -m 0 -x 4  "
+
+#[params_128]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 3 -m 0 -x 6  "
+
+#[params_129]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 3 -m 0 -x 8  "
+
+#[params_130]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 4 -m 0 -x 4  "
+
+#[params_131]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 4 -m 0 -x 6  "
+
+#[params_132]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 18 -g 4 -m 0 -x 8  "
+
+#[params_133]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 1 -m 0 -x 4  "
+
+#[params_134]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 1 -m 0 -x 6  "
+
+#[params_135]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 1 -m 0 -x 8  "
+
+#[params_136]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 2 -m 0 -x 4  "
+
+#[params_137]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 2 -m 0 -x 6  "
+
+#[params_138]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 2 -m 0 -x 8  "
+
+#[params_139]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 3 -m 0 -x 4  "
+
+#[params_140]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 3 -m 0 -x 6  "
+
+#[params_141]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 3 -m 0 -x 8  "
+
+#[params_142]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 4 -m 0 -x 4  "
+
+#[params_143]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 4 -m 0 -x 6  "
+
+#[params_144]
+GBSC_ALGORITHM_PARAMS="-w 4 -l 20 -g 4 -m 0 -x 8  "
+
+#[params_145]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 1 -m 0 -x 4  "
+
+#[params_146]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 1 -m 0 -x 6  "
+
+#[params_147]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 1 -m 0 -x 8  "
+
+#[params_148]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 2 -m 0 -x 4  "
+
+#[params_149]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 2 -m 0 -x 6  "
+
+#[params_150]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 2 -m 0 -x 8  "
+
+#[params_151]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 3 -m 0 -x 4  "
+
+#[params_152]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 3 -m 0 -x 6  "
+
+#[params_153]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 3 -m 0 -x 8  "
+
+#[params_154]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 4 -m 0 -x 4  "
+
+#[params_155]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 4 -m 0 -x 6  "
+
+#[params_156]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 10 -g 4 -m 0 -x 8  "
+
+#[params_157]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 1 -m 0 -x 4  "
+
+#[params_158]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 1 -m 0 -x 6  "
+
+#[params_159]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 1 -m 0 -x 8  "
+
+#[params_160]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 2 -m 0 -x 4  "
+
+#[params_161]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 2 -m 0 -x 6  "
+
+#[params_162]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 2 -m 0 -x 8  "
+
+#[params_163]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 3 -m 0 -x 4  "
+
+#[params_164]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 3 -m 0 -x 6  "
+
+#[params_165]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 3 -m 0 -x 8  "
+
+#[params_166]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 4 -m 0 -x 4  "
+
+#[params_167]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 4 -m 0 -x 6  "
+
+#[params_168]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 12 -g 4 -m 0 -x 8  "
+
+#[params_169]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 1 -m 0 -x 4  "
+
+#[params_170]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 1 -m 0 -x 6  "
+
+#[params_171]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 1 -m 0 -x 8  "
+
+#[params_172]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 2 -m 0 -x 4  "
+
+#[params_173]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 2 -m 0 -x 6  "
+
+#[params_174]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 2 -m 0 -x 8  "
+
+#[params_175]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 3 -m 0 -x 4  "
+
+#[params_176]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 3 -m 0 -x 6  "
+
+#[params_177]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 3 -m 0 -x 8  "
+
+#[params_178]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 4 -m 0 -x 4  "
+
+#[params_179]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 4 -m 0 -x 6  "
+
+#[params_180]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 14 -g 4 -m 0 -x 8  "
+
+#[params_181]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 1 -m 0 -x 4  "
+
+#[params_182]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 1 -m 0 -x 6  "
+
+#[params_183]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 1 -m 0 -x 8  "
+
+#[params_184]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 2 -m 0 -x 4  "
+
+#[params_185]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 2 -m 0 -x 6  "
+
+#[params_186]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 2 -m 0 -x 8  "
+
+#[params_187]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 3 -m 0 -x 4  "
+
+#[params_188]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 3 -m 0 -x 6  "
+
+#[params_189]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 3 -m 0 -x 8  "
+
+#[params_190]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 4 -m 0 -x 4  "
+
+#[params_191]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 4 -m 0 -x 6  "
+
+#[params_192]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 16 -g 4 -m 0 -x 8  "
+
+#[params_193]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 1 -m 0 -x 4  "
+
+#[params_194]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 1 -m 0 -x 6  "
+
+#[params_195]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 1 -m 0 -x 8  "
+
+#[params_196]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 2 -m 0 -x 4  "
+
+#[params_197]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 2 -m 0 -x 6  "
+
+#[params_198]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 2 -m 0 -x 8  "
+
+#[params_199]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 3 -m 0 -x 4  "
+
+#[params_200]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 3 -m 0 -x 6  "
+
+#[params_201]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 3 -m 0 -x 8  "
+
+#[params_202]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 4 -m 0 -x 4  "
+
+#[params_203]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 4 -m 0 -x 6  "
+
+#[params_204]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 18 -g 4 -m 0 -x 8  "
+
+#[params_205]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 1 -m 0 -x 4  "
+
+#[params_206]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 1 -m 0 -x 6  "
+
+#[params_207]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 1 -m 0 -x 8  "
+
+#[params_208]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 2 -m 0 -x 4  "
+
+#[params_209]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 2 -m 0 -x 6  "
+
+#[params_210]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 2 -m 0 -x 8  "
+
+#[params_211]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 3 -m 0 -x 4  "
+
+#[params_212]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 3 -m 0 -x 6  "
+
+#[params_213]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 3 -m 0 -x 8  "
+
+#[params_214]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 4 -m 0 -x 4  "
+
+#[params_215]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 4 -m 0 -x 6  "
+
+#[params_216]
+GBSC_ALGORITHM_PARAMS="-w 5 -l 20 -g 4 -m 0 -x 8  "
+

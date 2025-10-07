@@ -89,9 +89,9 @@ def read_stats_of_clusters(path):
 
 def main():
     params_path = "./data/tuning_params"
-    params_length_of_sequences_path = "./data/length_of_sequences_by_parameters.csv"
-    params_no_of_sequences_path = "./data/no_of_sequences_by_parameters.csv"
-    c_measure_path = "./data/C_value_by_parameters.csv"
+    params_length_of_sequences_path = "./data/gbsc_plots/length_of_sequences_by_parameters.csv"
+    params_no_of_sequences_path = "./data/gbsc_plots/no_of_sequences_by_parameters.csv"
+    c_measure_path = "./data/gbsc_plots/C_value_by_parameters.csv"
     params = get_params(params_path)
     data_len = read_stats_of_clusters(params_length_of_sequences_path)
     data_no = read_stats_of_clusters(params_no_of_sequences_path)
